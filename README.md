@@ -8,10 +8,10 @@ This project demonstrates practical understanding of ROS2 architecture including
 
 ## 🎥 Demo Video
 📌 Watch the full demo here:  
-👉 [Add your YouTube / Drive link here]
+👉 [https://drive.google.com/file/d/17gXgsXPaxz5zScEAV_TujdgpeHaKnY51/view?usp=drive_link]
 
 ## 🎥 Screenshot
-![App Screenshot](images/app-screenshot.png)   
+![Screenshot](images/image.png)   
 
 ---
 
