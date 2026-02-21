@@ -188,14 +188,14 @@ This project strengthened my foundation in robotics software architecture.
 
 ---
 
-# 🚀 Future Improvements
+# 🚀 Future Improvements In Robotics
 
-- Upgrade from P controller to PID
-- Add dynamic parameter tuning
 - Integrate Gazebo simulation
 - Add perception (camera-based detection)
 - Implement Finite State Machine (FSM)
-- Multi-target prioritization logic
+- Navigation Stack 2
+- SLAM
+- TF Tree
 
 ---
 
